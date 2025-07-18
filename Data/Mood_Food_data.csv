@@ -1,0 +1,51 @@
+mood,time_of_day,weather,recommended_food
+Happy,Morning,Sunny,Poha
+Sad,Night,Rainy,Chocolate Cake
+Energetic,Afternoon,Sunny,Grilled Sandwich
+Lazy,Night,Cloudy,Maggi
+Happy,Evening,Sunny,Ice Cream
+Sad,Morning,Cloudy,Tea with Parle-G
+Angry,Night,Rainy,Spicy Biryani
+Happy,Morning,Cloudy,Fruit Salad
+Lazy,Afternoon,Sunny,Instant Noodles
+Energetic,Evening,Sunny,Protein Shake
+Sad,Night,Cold,Hot Chocolate
+Angry,Morning,Sunny,Black Coffee
+Lazy,Night,Cloudy,Masala Khichdi
+Happy,Afternoon,Sunny,Smoothie Bowl
+Sad,Evening,Rainy,Pakoras
+Energetic,Morning,Sunny,Boiled Eggs
+Angry,Night,Cloudy,Chili Paneer
+Happy,Night,Sunny,Cold Coffee
+Lazy,Morning,Cloudy,Oats with Milk
+Sad,Afternoon,Rainy,Momos
+Angry,Afternoon,Sunny,Fried Rice
+Energetic,Night,Cold,Mutton Soup
+Happy,Evening,Rainy,Jalebi
+Lazy,Afternoon,Cloudy,Dal Khichdi
+Sad,Morning,Sunny,Toast and Jam
+Angry,Evening,Cloudy,Pav Bhaji
+Happy,Morning,Cold,Samosa
+Energetic,Afternoon,Sunny,Green Smoothie
+Sad,Night,Cloudy,Custard
+Lazy,Morning,Rainy,Stuffed Paratha
+Angry,Night,Rainy,Chicken Wings
+Happy,Afternoon,Cloudy,Lassi
+Sad,Evening,Sunny,Kachori
+Energetic,Morning,Sunny,Peanut Butter Toast
+Lazy,Night,Cold,Creamy Pasta
+Happy,Night,Cloudy,Milkshake
+Angry,Afternoon,Rainy,Spicy Tacos
+Sad,Morning,Cloudy,Upma
+Energetic,Evening,Cold,Chickpea Salad
+Happy,Afternoon,Sunny,Aamras
+Lazy,Evening,Rainy,Rice and Curry
+Angry,Morning,Cloudy,Onion Uttapam
+Sad,Night,Cold,Bread Butter
+Energetic,Morning,Rainy,Omelette
+Happy,Night,Cold,Halwa
+Lazy,Morning,Sunny,Porridge
+Angry,Evening,Sunny,Bhel Puri
+Sad,Afternoon,Cloudy,Sabudana Khichdi
+Happy,Evening,Sunny,Shahi Tukda
+Energetic,Night,Rainy,Paneer Tikka
